@@ -21,25 +21,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        <link
-          rel="apple-touch-icon"
-          sizes="180x180"
-          href="/apple-touch-icon.png"
-        />
-        <link
-          rel="icon"
-          type="image/png"
-          sizes="32x32"
-          href="/godrejfavicon.png"
-        />
-        <link
-          rel="icon"
-          type="image/png"
-          sizes="16x16"
-          href="/godrejfavicon.png"
-        />
-        <link rel="icon" href="/godrejfavicon.png" />
-        <link rel="manifest" href="/site.webmanifest" />
+        
 
         <script
           // safe inline injection for GTM; will run only in the browser
