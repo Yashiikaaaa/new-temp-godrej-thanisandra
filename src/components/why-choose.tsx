@@ -23,7 +23,7 @@ export default function WhyChoose() {
       description: "Eco-friendly environment with sustainable design"
     },
     {
-      title: "Gymnasium",
+      title: "70+ Amenities",
       src: "/assets/projecthighlights/gym.png",
       description: "Premium landscaping throughout the community"
     },

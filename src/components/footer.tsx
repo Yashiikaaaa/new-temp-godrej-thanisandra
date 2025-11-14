@@ -92,7 +92,7 @@ export default function Footer() {
   <button
     className="border text-md border-primary text-primary px-8 py-3 rounded-[4px] font-semibold transition-colors flex items-center gap-2 cursor-pointer min-w-[177px] flex-1 sm:flex-initial sm:w-auto justify-center"
     onClick={() => {
-      window.open("https://wa.me/9353329893", "_blank");
+      window.open("https://wa.me/+919353329893", "_blank");
     }}
   >
     <img
