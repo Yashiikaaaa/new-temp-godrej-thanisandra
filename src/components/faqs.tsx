@@ -14,13 +14,13 @@ export default function FAQs() {
     {
       question: "What is the location of the project?",
       answer:
-        "The project is located at in Thanisandra. It offers excellent connectivity to Outer Ring Road, Hebbal Flyover and Yelahanka Junction Railway Station.",
+        "The project is located at Thanisandra, North Bangalore. It offers excellent connectivity to major landmarks such as Hebbal Flyover, Metro, Airport, and Commercial Hubs.",
     },
-    // {
-    //   question: "When does the pre booking start for the project?",
-    //   answer:
-    //     "Pre-bookings for the project are scheduled to begin from [Date or Month, Year]. Interested buyers can register their interest in advance to secure priority access",
-    // },
+    {
+      question: "When does the pre booking start for the project?",
+      answer:
+        "Pre-bookings for the project are scheduled to begin from the month of November,2025. Interested buyers can register their interest in advance to secure priority access",
+    },
     {
       question: "What amenities and features will be available in the project?",
       answer:

@@ -16,8 +16,9 @@ export default function MasterPlan() {
                 Master Plan
               </h2>
               <p className="text-[#433F3E] text-[14px] md:text-lg font-medium font-['Urbanist'] max-w-2xl">
-                Strategically located for seamless connectivity to all major
-                landmarks
+                Explore the thoughtful layout, strategic tower placement, and vast open spaces designed for a refined living experience.
+
+
               </p>
             </div>
             <button

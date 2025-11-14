@@ -65,10 +65,10 @@ export default function PricingPlots() {
       <div className="max-w-7xl mx-auto px-4 md:px-0">
         <div className="mb-9">
           <h2 className="text-2xl md:text-4xl lg:text-[44px] font-extrabold mb-4 text-[#221628] font-['Urbanist']">
-            Choose Your Perfect Plot
+            Choose Your Apartment
           </h2>
           <p className="text-[#433F3E] text-[14px] md:text-lg font-medium font-['Urbanist'] max-w-3xl">
-            Select from our range of thoughtfully sized plots, each designed to give you the space to build your dream home
+            Select from our range of thoughtfully designed 2 & 3 BHK residences, each crafted to elevate your urban living experience.
           </p>
         </div>
 

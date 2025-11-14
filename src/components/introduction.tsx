@@ -16,7 +16,7 @@ export default function Introduction() {
             {/* Top Left Image - Aerial View */}
             <div className="absolute top-0 left-0 w-[80%] h-[80%] z-10">
               <img
-                src="/assets/introduction/image1.jpg"
+                src="/assets/introduction/image3.jpeg"
                 alt="Godrej Aerial View"
                 className="w-full h-full object-cover rounded-[4px] shadow-lg hover:scale-105 transition-transform duration-300"
               />
@@ -39,11 +39,11 @@ export default function Introduction() {
             </h2>
             
             <p className="text-[#575556] mb-4 leading-relaxed text-sm md:text-md font-['Urbanist']">
-             Located in North Bengaluru’s prime growth corridor, just 10 minutes from Manyata Tech Park, with excellent connectivity to ORR, Hebbal, Airport Road, and upcoming metro stations. The project is close to schools, hospitals, IT parks, and shopping zones.       
-            </p>
+             For over 125 years, Godrej has been synonymous with trust, quality, and innovation. As one of India's most respected conglomerates, we bring the same commitment to excellence in creating premium residential apartments that inspire and endure.            
+             </p>
             
             <p className="text-[#575556] mb-8 leading-relaxed text-sm md:text-md font-['Urbanist']">
-            Spanning 7 acres with 10 towers, the development offers 550+ residences, featuring 2B + G + 13 floors, green open spaces, and a clubhouse with wellness amenities.    
+            Godrej Thanisandra is a new pre-launch high-rise apartment project located in the heart of Thanisandra, North Bangalore. Spread across a sprawling 6.5 to 7 acres of land, the development is designed with over 60% open green spaces.
             </p>
 
             {/* Buttons */}

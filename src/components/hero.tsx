@@ -13,12 +13,12 @@ export default function Hero() {
       <div
         className="absolute inset-0 bg-cover bg-center"
         style={{
-          backgroundImage: `url('assets/godrejthanihero2.png')`,
+          backgroundImage: `url('assets/tr.png')`,
         }}
       />
 
       {/* Dark Gradient Overlay - from left (dark) to right (transparent) */}
-      <div className="absolute inset-0 bg-gradient-to-r from-black/60 via-black/30 to-transparent" />
+      <div className="absolute inset-0 bg-gradient-to-r from-black/20 via-black/10 to-transparent" />
 
       {/* Additional vignette overlay for better text contrast */}
       <div className="absolute inset-0 bg-gradient-to-b from-black/30 via-transparent to-black/30" />
@@ -52,12 +52,12 @@ export default function Hero() {
 
           {/* Heading */}
           <h1 className="text-[36px] md:text-5xl lg:text-[58px] font-extrabold font-['Urbanist'] mb-4 leading-tight drop-shadow-2xl">
-            Godrej New Project in North Bangalore
+           Premium apartments in North Bangalore
           </h1>
 
           {/* Description */}
           <p className="text-[14px] md:text-lg lg:text-lg mb-8 text-gray-200 font-['Urbanist'] font-medium drop-shadow-lg">
-            Premium Plotted Development in Doddballapur
+            Exclusive price for first 100 customers
           </p>
 
           {/* CTA Button */}

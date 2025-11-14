@@ -7,9 +7,9 @@ export default function Gallery() {
 
   const images = [
     { src: "/assets/gallery/interior1.png", desktopCols: 1, mobileRows: 1 },
-    { src: "/luxury-kitchen-with-modern-appliances.jpg", desktopCols: 3, mobileRows: 1 },
+    { src: "/assets/gallery/image4.png", desktopCols: 3, mobileRows: 1 },
     { src: "/assets/gallery/gallery1.png", desktopCols: 2, mobileRows: 2 },
-    { src: "/community-garden-and-green-space.jpg", desktopCols: 3, mobileRows: 2 },
+    { src: "/assets/gallery/image8.png", desktopCols: 3, mobileRows: 2 },
     { src: "/wimming-pool-recreation-area.jpg", desktopCols: 2, mobileRows: 3 },
     { src: "/residential-buildings-complex.jpg", desktopCols: 1, mobileRows: 3 },
   ]
@@ -20,11 +20,11 @@ export default function Gallery() {
         <div className="max-w-7xl mx-auto px-4 md:px-0">
           <div className="mb-8 md:mb-12">
             <h2 className="text-2xl md:text-4xl lg:text-[44px] font-extrabold mb-3 md:mb-4 text-[#221628] font-['Urbanist']">
-              Choose Your Perfect Plot
+              Envision Your New Life
             </h2>
             <p className="text-[#433F3E] text-[14px] md:text-lg font-medium font-['Urbanist'] max-w-3xl">
-              Select from our range of thoughtfully sized plots, each designed to give you the space to build your dream home
-            </p>
+              Take a visual tour of the apartments, expansive clubhouse, and beautifully landscaped open spaces.
+               </p>
           </div>
 
           {/* Desktop Grid - 3 columns with varying widths */}
