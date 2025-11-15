@@ -83,7 +83,7 @@
   --color-card-foreground: var(--card-foreground);
   --color-popover: var(--popover);
   --color-popover-foreground: var(--popover-foreground);
-  --color-primary: #9F0E52;
+  --color-primary: #9F0E52; 
   --color-primary-foreground: var(--primary-foreground);
   --color-secondary: #1b5e20;
   --color-secondary-foreground: var(--secondary-foreground);

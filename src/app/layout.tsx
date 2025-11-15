@@ -63,6 +63,19 @@ gtag('config', 'G-TCMEYMB0TZ');
         </noscript>
           <ToasterProvider />
         {children}
+        
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-TCMEYMB0TZ"></script>
+
+<noscript>
+  <iframe
+    src="https://www.googletagmanager.com/ns.html?id=GTM-TN2TJW7V"
+    height="0"
+    width="0"
+    style={{ display: "none", visibility: "hidden" }}
+  />
+</noscript>
+
       </body>
     </html>
   );
